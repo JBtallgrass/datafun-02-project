@@ -6,7 +6,7 @@ This project is for the module 2 project requirments for the Fundamentals of Dat
 __________________________________________________________________________
 
 
-## Getting Started 🟢_flag:
+## Getting Started 🥇
 _________________________________________________________________________
 
 ### Dependencies
@@ -21,7 +21,7 @@ How to install your project, step-by-step.
 _________________________________________________________________________
 How to run the program with code examples.
 
-## Help :smile:
+## Help :accessibility:
 _________________________________________________________________________
 Any advice for common problems or issues.
 
