@@ -2,14 +2,14 @@
 
 This project is for the module 2 project requirments for the Fundamentals of Data Analysis
 
-## Description
+## Description 🖼️
 __________________________________________________________________________
 
 
 ## Getting Started 🥇
 _________________________________________________________________________
 
-### Dependencies
+### Dependencies :dependabot:
 _________________________________________________________________________
 List any libraries, frameworks, or tools that your project depends on:
 
@@ -28,7 +28,7 @@ How to run the program with code examples.
 _________________________________________________________________________
 Any advice for common problems or issues.
 
-## Authors
+## Authors 🖋️
 _________________________________________________________________________
 Jason Ballard,
 
