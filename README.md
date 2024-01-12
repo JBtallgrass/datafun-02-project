@@ -6,7 +6,7 @@ This project is for the module 2 project requirments for the Fundamentals of Dat
 __________________________________________________________________________
 
 
-## Getting Started
+## Getting Started 🟢_flag:
 _________________________________________________________________________
 
 ### Dependencies
@@ -29,7 +29,7 @@ Any advice for common problems or issues.
 _________________________________________________________________________
 Jason Ballard,
 
-## Version History
+## Version History :checkered_flag:
 __________________________________________________________________________
 
 ## Acknowledgments
