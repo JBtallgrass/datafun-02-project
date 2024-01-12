@@ -11,7 +11,10 @@ _________________________________________________________________________
 
 ### Dependencies
 _________________________________________________________________________
-List any libraries, frameworks, or tools that your project depends on.
+List any libraries, frameworks, or tools that your project depends on:
+
+Math
+Statistics
 
 ### Installing :wrench:
 _________________________________________________________________________
