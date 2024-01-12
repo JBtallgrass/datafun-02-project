@@ -6,7 +6,7 @@ This project is for the module 2 project requirments for the Fundamentals of Dat
 __________________________________________________________________________
 The second module introduces additional Python programming basics including loops and branching. The module provides practical project setup techniques and a series of reusable functions for drafting project folders (e.g. folders for a range of years, or from a list of folder names).
 
-### Objectives :target: 
+### Objectives 🎯
 __________________________________________________________________________
 Develop a Python module that demonstrates proficiency in loops, project folder creation using pathlib, and importing modules. This module should include reusable functions for creating sets of project folders based on various criteria.
 
