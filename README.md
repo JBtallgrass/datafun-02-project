@@ -14,7 +14,7 @@ Develop a Python module that demonstrates proficiency in loops, project folder c
 _________________________________________________________________________
 * GitHub Repository: datafun-02-projsetup
 * Documentation: README.md
-* Script: yourname_projsetup.py
+* Script: Jballard_projsetup.py
 
 ## Getting Started 🥇
 _________________________________________________________________________
